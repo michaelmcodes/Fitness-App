@@ -6,5 +6,5 @@ Help address the limitations of most existing generic fitness apps by providing 
 
 # Preview
 
-# Log In/ Sign Up Pages
-![LoginPage-Fitness](https://github.com/michaelmcodes/Fitness-App/assets/93675063/fce664e6-18fa-414a-a981-fda860b6b7ad)
+### Log In/ Sign Up Pages
+![LoginPage-Fitness](https://github.com/michaelmcodes/Fitness-App/assets/500/fce664e6-18fa-414a-a981-fda860b6b7ad)
